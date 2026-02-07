@@ -32,3 +32,8 @@ print(lista)
 carros = [ 'Mercedez', 'Golf', 'BMW']
 lista.extend(carros)
 print(lista)
+
+# outro jeito de fazer o exercicio 5
+list = [1,2,3,4,5,6,7,8,9,10]
+carro = ['lamborghini', 'ferrari', 'Konnisseg']
+print(f'{list} {carro}')
