@@ -1,0 +1,43 @@
+<!-- **1 - Crie um número aleatório de 5,10**
+
+1 OK
+
+**2 - Crie 3 números aleatórios**
+
+2 OK
+
+
+**3 - Crie um número aleatório entre 10 a 30 utilize o range()**
+
+3 OK
+
+
+**4 - Contagem regressiva simples**
+Escreva um programa que exiba uma contagem regressiva de 10 a 1, e depois imprima "Fogo!".(loop for)
+
+**5 - Soma de números pares**
+
+Peça ao usuário que insira um número inteiro positivo e, em seguida, calcule a soma de todos os números pares de 2 até o número inserido.
+
+```python
+# Peça ao usuário que insira um número inteiro 
+# faça o loop com range e for ate´o numero
+# positivo e, em seguida, calcule a soma de 
+# todos os números pares de 2 até o número inserido.
+```
+
+(use módulo, if, for)
+
+**6 - Tabuada de multiplicação**
+
+***Utilize print() na saída***
+
+Peça ao usuário para inserir um número inteiro e mostre a tabuada de multiplicação desse número de 1 a 10.
+
+(while ou for )
+
+**7 -  Números ímpares reversos**
+
+Exiba uma contagem regressiva de números ímpares de 99 a 1.
+
+(for) -->
